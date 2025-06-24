@@ -14,7 +14,7 @@ A beginner-friendly Rubik's Cube simulator and basic solver implemented in C++. 
 
 ---
 
-## 📁 Project Structure
+## 📁 Project Structure 
 ```
 rubik-solver/
 ├── main.cpp # Entry point and menu
@@ -27,7 +27,7 @@ rubik-solver/
 
 ---
 
-🛠️ How to Build and Run
+## 🛠️ How to Build and Run
 
 🔧 Prerequisites
 C++ compiler (e.g., g++)
@@ -39,7 +39,7 @@ g++ main.cpp cube.cpp solver.cpp -o rubik-solver
 ```
 
 
-🎮 Commands in Console
+## 🎮 Commands in Console
 U, D, F, B, L, R  - Rotate faces clockwise  
 s                 - Scramble cube  
 r                 - Reset cube  
@@ -48,9 +48,9 @@ v                 - Solve cube (placeholder logic)
 q                 - Quit  
 
 
-🧠 Future Work
-> Implement actual solving logic (e.g., BFS or IDA*)
-> Add undo functionality
+## 🧠 Future Work
+ Implement actual solving logic (e.g., BFS or IDA*)
+ Add undo functionality
 
 Built by -[adithya-ram000](https://github.com/adithya-ram000)
 
